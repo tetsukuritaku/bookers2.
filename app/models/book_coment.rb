@@ -1,0 +1,2 @@
+class BookComent < ApplicationRecord
+end
